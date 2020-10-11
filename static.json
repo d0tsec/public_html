@@ -2,7 +2,8 @@
   "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "X-Reply": "openedu"
     }
   }    
 }
